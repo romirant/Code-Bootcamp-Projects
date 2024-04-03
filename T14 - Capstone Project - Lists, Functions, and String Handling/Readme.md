@@ -10,8 +10,8 @@ The Task Manager is a Python-based project designed to help small businesses man
 - [Credits](#credits)
 
 ## Installation
-1. Clone the repository: git clone https://github.com/romirant/finalCapstone.git
-2. Navigate to the project directory: cd finalCapstone
+1. Clone the repository: git clone https://github.com/romirant/Code-Bootcamp-Projects.git
+2. Navigate to the project directory: cd T14 - Capstone Project - Lists, Functions, and String Handling
 
 ## Usage
 1. Run the `task_manager copy.py` file: python `task_manager copy.py`
